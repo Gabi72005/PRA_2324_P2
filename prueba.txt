@@ -1,0 +1,8 @@
+=== Pruebas con Enteros ===
+Entero encontrado en la posición: 3
+
+=== Pruebas con Flotantes ===
+Flotante encontrado en la posición: 2
+
+=== Pruebas con Cadenas ===
+Cadena encontrada en la posición: 2
